@@ -1,4 +1,4 @@
-const url= "http://localhost:3000"
+const url= "https://api.npoint.io/16d3837723ce1f36d03d/films/"
 let info = document.getElementById("append")
 let leftList = document.getElementById("list")
 
