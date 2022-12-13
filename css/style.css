@@ -3,8 +3,13 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+   
+
 }
 
+body{
+    background-color: rgb(40, 255, 255);
+}
 
 
 .btn{
@@ -17,6 +22,7 @@
 
 .container{
     min-height: 100vh;
+ 
 }
 
 
