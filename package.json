@@ -1,0 +1,24 @@
+{
+  "name": "flatiron-movie-theater",
+  "version": "1.0.0",
+  "description": "an application to enable a user purchase movie tickets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErnestH1/Flatiron-Movie-Theater.git"
+  },
+  "keywords": [
+    "movie",
+    "theatre",
+    "ticket"
+  ],
+  "author": "Ernest H",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErnestH1/Flatiron-Movie-Theater/issues"
+  },
+  "homepage": "https://github.com/ErnestH1/Flatiron-Movie-Theater#readme"
+}
