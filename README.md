@@ -28,7 +28,7 @@ To use this repo on your machine requires some simple steps
 Running the application is very straight forward. You can use the following steps to run the app.
 
 -Click the link below to run the application
-- [Flatiron Movie Theatre]([https://github.com/ErnestH1/](https://ernesth1.github.io/Flatiron-Movie-Theater/))
+- [Flatiron Movie Theatre](https://github.com/ErnestH1/](https://ernesth1.github.io/Flatiron-Movie-Theater/)
 
 
 
