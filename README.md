@@ -27,13 +27,14 @@ To use this repo on your machine requires some simple steps
 
 Running the application is very straight forward. You can use the following steps to run the app.
 
--Run the index.html file in your browser to launch the application
+-Click the link below to run the application
+- [Flatiron Movie Theatre](https://github.com/ErnestH1/)
 
 
 
 # Authors
 This project was contributed to by:
-- [Ernest Hanson](https://github.com/ErnestH1/)
+- [Ernest Hanson](https://ernesth1.github.io/Flatiron-Movie-Theater/)
 
 # License
 The project is licensed under ISC
