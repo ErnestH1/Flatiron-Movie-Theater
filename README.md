@@ -27,7 +27,8 @@ To use this repo on your machine requires some simple steps
 
 Running the application is very straight forward. You can use the following steps to run the app.
 
--Run the index.html file in your browser to launch the application
+-Click the link below to run the application
+- [Flatiron Movie Theatre](https://ernesth1.github.io/Flatiron-Movie-Theater/)
 
 
 
